@@ -59,4 +59,4 @@ The dataset contains the complete loan data for all loans issued through the tim
 - 'loan_amnt' vs. 'verification_status': verified borrowers have higher loan amounts than others
 - 'revol_util' vs. purpose: borrwers for credit cards have the highest amount of credit relative to all available revolving credit.
 ## Contact:
-Perform by Jimmy Ha (https://github.com/coachjimmyha) and Mrunmai Khedekar
+Perform by Jimmy Ha (https://github.com/coachjimmyha) and Mrunmai Khedekar (https://github.com/roselica/best-repo-ever.git)
